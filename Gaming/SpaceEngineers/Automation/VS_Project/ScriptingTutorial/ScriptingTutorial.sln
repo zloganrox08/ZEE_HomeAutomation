@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptingTutorial", "ScriptingTutorial.csproj", "{854CC382-4AD6-4CB0-8298-2A8455DFD290}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{854CC382-4AD6-4CB0-8298-2A8455DFD290}.Debug|x64.ActiveCfg = Debug|x64
+		{854CC382-4AD6-4CB0-8298-2A8455DFD290}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98D624A3-F92E-4A95-85C2-281F05272B20}
+	EndGlobalSection
+EndGlobal
