@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatteryDisplay", "BatteryDisplay\BatteryDisplay.csproj", "{5588DBA5-1AD6-4A5B-BE2D-D5EA0C1174A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5588DBA5-1AD6-4A5B-BE2D-D5EA0C1174A0}.Debug|x64.ActiveCfg = Debug|x64
+		{5588DBA5-1AD6-4A5B-BE2D-D5EA0C1174A0}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B318305-6747-450B-9024-7B1F806D2D70}
+	EndGlobalSection
+EndGlobal
