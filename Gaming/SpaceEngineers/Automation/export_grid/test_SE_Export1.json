@@ -1,0 +1,2453 @@
+{
+    "Definitions": {
+      "Prefabs": {
+        "Prefab": {
+          "Id": "",
+          "CubeGrids": {
+            "CubeGrid": {
+              "SubtypeName": "",
+              "EntityId": 130050335784730020,
+              "PersistentFlags": "CastShadows InScene",
+              "Name": 130050335784730020,
+              "PositionAndOrientation": {
+                "Position": "",
+                "Forward": "",
+                "Up": "",
+                "Orientation": {
+                  "X": 0.143368781,
+                  "Y": -0.809913933,
+                  "Z": -0.132602409,
+                  "W": 0.553083539
+                }
+              },
+              "LocalPositionAndOrientation": "",
+              "GridSizeEnum": "Large",
+              "CubeBlocks": {
+                "MyObjectBuilder_CubeBlock": [
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock"
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 125856837373277700,
+                    "Name": 125856837373277700,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 95874461301464200,
+                    "Name": 95874461301464200,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 76706554528104670,
+                    "Name": 76706554528104670,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 109306115730199100,
+                    "Name": 109306115730199100,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 72560708009539490,
+                    "Name": 72560708009539490,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 123112775114936580,
+                    "Name": 123112775114936580,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 111916418127201300,
+                    "Name": 111916418127201300,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 140446137395393570,
+                    "Name": 140446137395393570,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 98737745373726370,
+                    "Name": 98737745373726370,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 121576924117506700,
+                    "Name": 121576924117506700,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 77953512926165400,
+                    "Name": 77953512926165400,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 108061665625088560,
+                    "Name": 108061665625088560,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 100826738967712400,
+                    "Name": 100826738967712400,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 143116521993297260,
+                    "Name": 143116521993297260,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 113682937581452740,
+                    "Name": 113682937581452740,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 132171751711595680,
+                    "Name": 132171751711595680,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 130681564384665380,
+                    "Name": 130681564384665380,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 85575187439500020,
+                    "Name": 85575187439500020,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 144097544988394900,
+                    "Name": 144097544988394900,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 111011196506435330,
+                    "Name": 111011196506435330,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 136201200970485730,
+                    "Name": 136201200970485730,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 112169574941315150,
+                    "Name": 112169574941315150,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 99835625699025860,
+                    "Name": 99835625699025860,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 112818557913920020,
+                    "Name": 112818557913920020,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 138098207902600750,
+                    "Name": 138098207902600750,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 103623755930404660,
+                    "Name": 103623755930404660,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 96039777175694240,
+                    "Name": 96039777175694240,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 78334448960002200,
+                    "Name": 78334448960002200,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 99191419726208620,
+                    "Name": 99191419726208620,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 109412311452742530,
+                    "Name": 109412311452742530,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 120020264249990660,
+                    "Name": 120020264249990660,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 124840268110264770,
+                    "Name": 124840268110264770,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 137615509732326690,
+                    "Name": 137615509732326690,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 123595217223035280,
+                    "Name": 123595217223035280,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 74037611206199920,
+                    "Name": 74037611206199920,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 75240418118659790,
+                    "Name": 75240418118659790,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 82812725926624780,
+                    "Name": 82812725926624780,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 98126204162787400,
+                    "Name": 98126204162787400,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 133444071869740340,
+                    "Name": 133444071869740340,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 141457519708585840,
+                    "Name": 141457519708585840,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 105732121214207310,
+                    "Name": 105732121214207310,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 91228127295081060,
+                    "Name": 91228127295081060,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 89734829386841020,
+                    "Name": 89734829386841020,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 94824784150848260,
+                    "Name": 94824784150848260,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 141067623350777890,
+                    "Name": 141067623350777890,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 72208371685287460,
+                    "Name": 72208371685287460,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 122423162878275840,
+                    "Name": 122423162878275840,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 127517541823235100,
+                    "Name": 127517541823235100,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 109030283752227230,
+                    "Name": 109030283752227230,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 85130578338799540,
+                    "Name": 85130578338799540,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 141526086908131790,
+                    "Name": 141526086908131790,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 126466534367395820,
+                    "Name": 126466534367395820,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 122355865018892110,
+                    "Name": 122355865018892110,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 126445619022779360,
+                    "Name": 126445619022779360,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 83147772746858130,
+                    "Name": 83147772746858130,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 108269207163313390,
+                    "Name": 108269207163313390,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 108669086954359500,
+                    "Name": 108669086954359500,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 85843735852020080,
+                    "Name": 85843735852020080,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 116405245833893890,
+                    "Name": 116405245833893890,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 140820119529754320,
+                    "Name": 140820119529754320,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 115138630095831540,
+                    "Name": 115138630095831540,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 105812809090191980,
+                    "Name": 105812809090191980,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 107616673089730930,
+                    "Name": 107616673089730930,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 122495976917422030,
+                    "Name": 122495976917422030,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 103997220691717810,
+                    "Name": 103997220691717810,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 77109746618209660,
+                    "Name": 77109746618209660,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 143511469403108320,
+                    "Name": 143511469403108320,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 118005643014042000,
+                    "Name": 118005643014042000,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 93780739999689090,
+                    "Name": 93780739999689090,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 143414824593417060,
+                    "Name": 143414824593417060,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 88160372708844510,
+                    "Name": 88160372708844510,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 136849144283858850,
+                    "Name": 136849144283858850,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 85432949212476600,
+                    "Name": 85432949212476600,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 95081336402639700,
+                    "Name": 95081336402639700,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 137579017705605780,
+                    "Name": 137579017705605780,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 131171922472291790,
+                    "Name": 131171922472291790,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 137775772058271040,
+                    "Name": 137775772058271040,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 84026900514527820,
+                    "Name": 84026900514527820,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 140621548471584350,
+                    "Name": 140621548471584350,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 111587205360110780,
+                    "Name": 111587205360110780,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 100892136564157780,
+                    "Name": 100892136564157780,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 105870412130169600,
+                    "Name": 105870412130169600,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 80301377682241200,
+                    "Name": 80301377682241200,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 133386265729689940,
+                    "Name": 133386265729689940,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 111030662326802460,
+                    "Name": 111030662326802460,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 142536068866714160,
+                    "Name": 142536068866714160,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 86766432124162860,
+                    "Name": 86766432124162860,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorPanelLight",
+                    "EntityId": 129038163223507420,
+                    "Name": 129038163223507420,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 109649560156099940,
+                    "Name": 109649560156099940,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 110613811058168480,
+                    "Name": 110613811058168480,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 87957613712820670,
+                    "Name": 87957613712820670,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 133541281282378530,
+                    "Name": 133541281282378530,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 81126707957529250,
+                    "Name": 81126707957529250,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 97942276966989810,
+                    "Name": 97942276966989810,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 109857735538454180,
+                    "Name": 109857735538454180,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 75240049525846220,
+                    "Name": 75240049525846220,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 76842216760922480,
+                    "Name": 76842216760922480,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 135580959986541180,
+                    "Name": 135580959986541180,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 134614206230447200,
+                    "Name": 134614206230447200,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 111022025367406180,
+                    "Name": 111022025367406180,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 108062008941146610,
+                    "Name": 108062008941146610,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 112652736288938720,
+                    "Name": 112652736288938720,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 83325985755985490,
+                    "Name": 83325985755985490,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedSidePanelLight",
+                    "EntityId": 140214243180275140,
+                    "Name": 140214243180275140,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 122704515175757630,
+                    "Name": 122704515175757630,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 106176890417964820,
+                    "Name": 106176890417964820,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 100627027569088800,
+                    "Name": 100627027569088800,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 140536775027366540,
+                    "Name": 140536775027366540,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 72950532517601890,
+                    "Name": 72950532517601890,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 132017789412411070,
+                    "Name": 132017789412411070,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 82600651660963440,
+                    "Name": 82600651660963440,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 126154118393801900,
+                    "Name": 126154118393801900,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 137905075832655840,
+                    "Name": 137905075832655840,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 130716960271253180,
+                    "Name": 130716960271253180,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 112806249177398560,
+                    "Name": 112806249177398560,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 99305871301638670,
+                    "Name": 99305871301638670,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 141018133970412400,
+                    "Name": 141018133970412400,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 117876186659074990,
+                    "Name": 117876186659074990,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 74515729632131630,
+                    "Name": 74515729632131630,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 140273243827087420,
+                    "Name": 140273243827087420,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 87752058996881660,
+                    "Name": 87752058996881660,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 134252409770295940,
+                    "Name": 134252409770295940,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 142261056904491300,
+                    "Name": 142261056904491300,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 97710149087352930,
+                    "Name": 97710149087352930,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 117180600906037000,
+                    "Name": 117180600906037000,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 89826955499528580,
+                    "Name": 89826955499528580,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 125183739603342720,
+                    "Name": 125183739603342720,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 128399858443605260,
+                    "Name": 128399858443605260,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 115259969542626980,
+                    "Name": 115259969542626980,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 88359028991539630,
+                    "Name": 88359028991539630,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 138085802782473680,
+                    "Name": 138085802782473680,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 122479870340583520,
+                    "Name": 122479870340583520,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 83731911833421250,
+                    "Name": 83731911833421250,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 118776471093823970,
+                    "Name": 118776471093823970,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 135293458379350700,
+                    "Name": 135293458379350700,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 110111125435679360,
+                    "Name": 110111125435679360,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 130618797416118690,
+                    "Name": 130618797416118690,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 98259453082650220,
+                    "Name": 98259453082650220,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 99544834217697310,
+                    "Name": 99544834217697310,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 84189343770738260,
+                    "Name": 84189343770738260,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 100769567019259140,
+                    "Name": 100769567019259140,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 85919439929023420,
+                    "Name": 85919439929023420,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 98551043399108200,
+                    "Name": 98551043399108200,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 130111280530337090,
+                    "Name": 130111280530337090,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 90690159837105760,
+                    "Name": 90690159837105760,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 125366883644083820,
+                    "Name": 125366883644083820,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 99812514995844080,
+                    "Name": 99812514995844080,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 101752303857038770,
+                    "Name": 101752303857038770,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 119800758584811120,
+                    "Name": 119800758584811120,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 95546589370526700,
+                    "Name": 95546589370526700,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 126966454594575360,
+                    "Name": 126966454594575360,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 131227346559176320,
+                    "Name": 131227346559176320,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 139697775813062690,
+                    "Name": 139697775813062690,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 110248902714349090,
+                    "Name": 110248902714349090,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 128691010934277420,
+                    "Name": 128691010934277420,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 86868635697458660,
+                    "Name": 86868635697458660,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 123688091699528580,
+                    "Name": 123688091699528580,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 125536560201674140,
+                    "Name": 125536560201674140,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 96902595621054800,
+                    "Name": 96902595621054800,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 136281047885737000,
+                    "Name": 136281047885737000,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 109272896559378260,
+                    "Name": 109272896559378260,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 117364566575153330,
+                    "Name": 117364566575153330,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 102109962465197520,
+                    "Name": 102109962465197520,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 117248917594641840,
+                    "Name": 117248917594641840,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 103580489521568690,
+                    "Name": 103580489521568690,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 108559065884288500,
+                    "Name": 108559065884288500,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 78082081850012220,
+                    "Name": 78082081850012220,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 128822816963347520,
+                    "Name": 128822816963347520,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 129881633413140260,
+                    "Name": 129881633413140260,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 84677415282440640,
+                    "Name": 84677415282440640,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 108614937754345650,
+                    "Name": 108614937754345650,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 126885832372741150,
+                    "Name": 126885832372741150,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 90608740354116800,
+                    "Name": 90608740354116800,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 113352187433446560,
+                    "Name": 113352187433446560,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 137777489169613700,
+                    "Name": 137777489169613700,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 113919492424738560,
+                    "Name": 113919492424738560,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 136671334076883570,
+                    "Name": 136671334076883570,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 89285125989464180,
+                    "Name": 89285125989464180,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 100568102832082200,
+                    "Name": 100568102832082200,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 121566588612384320,
+                    "Name": 121566588612384320,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 117593801431856200,
+                    "Name": 117593801431856200,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 73763547145644290,
+                    "Name": 73763547145644290,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 108771900590122100,
+                    "Name": 108771900590122100,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeArmorSlopedPanelLight",
+                    "EntityId": 134034379013956910,
+                    "Name": 134034379013956910,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "Window2x3FlatInv",
+                    "EntityId": 128746432499806690,
+                    "Name": 128746432499806690,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "Window2x3FlatInv",
+                    "EntityId": 118088948315714300,
+                    "Name": 118088948315714300,
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "Window2x3FlatInv",
+                    "EntityId": 118366718563978190,
+                    "Name": 118366718563978190,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "Window2x3FlatInv",
+                    "EntityId": 95390456302699580,
+                    "Name": 95390456302699580,
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "Window2x3FlatInv",
+                    "EntityId": 132357193866053010,
+                    "Name": 132357193866053010,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "Window2x3FlatInv",
+                    "EntityId": 92634524114236850,
+                    "Name": 92634524114236850,
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "Window2x3FlatInv",
+                    "EntityId": 109282550040731170,
+                    "Name": 109282550040731170,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "Window2x3FlatInv",
+                    "EntityId": 106398014902552320,
+                    "Name": 106398014902552320,
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "Window2x3FlatInv",
+                    "EntityId": 109569199330205400,
+                    "Name": 109569199330205400,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "Window2x3FlatInv",
+                    "EntityId": 105975080989708590,
+                    "Name": 105975080989708590,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "Window1x2FlatInv",
+                    "EntityId": 95244549805950850,
+                    "Name": 95244549805950850,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "Window1x2FlatInv",
+                    "EntityId": 86617353259568740,
+                    "Name": 86617353259568740,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorBlock",
+                    "Min": ""
+                  },
+                  {
+                    "SubtypeName": "GratedHalfStairs",
+                    "EntityId": 103062244709145100,
+                    "Name": 103062244709145100,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "GratedHalfStairsMirrored",
+                    "EntityId": 76467010107555400,
+                    "Name": 76467010107555400,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "GratedHalfStairs",
+                    "EntityId": 128696708589469680,
+                    "Name": 128696708589469680,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "GratedHalfStairsMirrored",
+                    "EntityId": 114886457446234720,
+                    "Name": 114886457446234720,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "CatwalkRailingHalfLeft",
+                    "EntityId": 137227069003652420,
+                    "Name": 137227069003652420,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "CatwalkRailingHalfRight",
+                    "EntityId": 104872019564799760,
+                    "Name": 104872019564799760,
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorSlope",
+                    "Min": "",
+                    "BlockOrientation": ""
+                  },
+                  {
+                    "SubtypeName": "LargeBlockArmorSlope",
+                    "Min": "",
+                    "BlockOrientation": ""
+                  }
+                ]
+              },
+              "XMirroxPlane": "",
+              "XMirroxOdd": true,
+              "DisplayName": "Large Grid 16",
+              "DestructibleBlocks": true,
+              "IsRespawnGrid": false,
+              "LocalCoordSys": 0,
+              "TargetingTargets": ""
+            }
+          },
+          "EnvironmentType": "None"
+        }
+      }
+    }
+  }
