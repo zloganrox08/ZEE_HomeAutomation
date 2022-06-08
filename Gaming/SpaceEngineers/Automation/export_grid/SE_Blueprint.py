@@ -56,21 +56,39 @@ class SE_Blueprint() :
             else:
                 print(key, ":", value,"\n")
 
-    def calculate_block_counts(self) :
-        blocklist = {}
-        for grid, value in self.main_model["Definitions"]["Prefabs"]["Prefab"]["CubeGrids"] :
-            print("grid: " + str(grid))
-            print("value: " + str(value))
-            for block in grid["CubeBlocks"] :
-                currblockname = block["SubtypeName"]
-                if blocklist[currblockname] :
-                    blocklist[currblockname] += 1
-                else :
-                    blocklist[currblockname] = 1
-        print("Here's the blocklist: ")
-        print(blocklist)
 
-debug_blueprint = SE_Blueprint()
-debug_blueprint.export_bluprint()
+        blockcounts = {}
+        for grid_key, grid_value in self.CubeGrids:
+            # This is the loop for each individual grid
+            # grid_key is relatively useless
+            # grid_value is everything inside the CubeGrids
+            # I think this is at the wrong level, may be bug #TODO
+            blocklist = grid_value["CubeGrid"]["CubeBlocks"]["MyObjectBuilder_CubeBlock"]
+            for block in blocklist :
+                # This loops through each block on the grid
+                # Let's print its name
+                if debug: print("Found block of type: " + str(block["SubtypeName"]))
+                #if debug: print("block_info: " + str(block))
+                currblockname = block["SubtypeName"]
+                print("currblockname:" + str(currblockname) + "," + str(type(currblockname)))
+                #print("Here's the blockcounts: ")
+                #print(blockcounts)
+                try :
+                    print(blockcounts[currblockname])
+                    blockcounts[currblockname] += 1
+                except KeyError :
+                    blockcounts[str(currblockname)] = 1
+        
+        print("Here's the blockcounts: ")
+        print(blockcounts)
+
+if __name__ == "__main__" :
+    print("If in debug, I'm going to count some blocks")
+    debug_blueprint = SE_Blueprint()
+    debug_blueprint.export_bluprint()
+    debug_blueprint.calculate_block_counts()
+
+#debug_blueprint = SE_Blueprint()
+#debug_blueprint.export_bluprint()
 #debug_blueprint.print_all_values(debug_blueprint)
 #debug_blueprint.calculate_block_counts()
