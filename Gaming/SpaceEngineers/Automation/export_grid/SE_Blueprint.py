@@ -56,7 +56,7 @@ class SE_Blueprint() :
             else:
                 print(key, ":", value,"\n")
 
-    def calculate_block_counts(self) :
+
         blockcounts = {}
         for grid_key, grid_value in self.CubeGrids:
             # This is the loop for each individual grid
