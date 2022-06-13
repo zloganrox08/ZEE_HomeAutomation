@@ -10,8 +10,8 @@ debug = 1
 class SE_Blueprint() :
     main_model = None
 
-    def __init__(self): 
-        json_filepath = "test_SE_Export1.json"
+    def __init__(self, json_filepath): 
+        json_filepath = json_filepath
 
         with open(json_filepath, 'r') as model_json :
             model_json = json.load(model_json)
@@ -25,28 +25,32 @@ class SE_Blueprint() :
             CubeGrids.append([prefab_key, prefab_value["CubeGrids"]])
         self.CubeGrids = CubeGrids
         
-    def export_bluprint(self) : 
-        for grid_key, grid_value in self.CubeGrids:
-            # This is the loop for each individual grid
-            # In terms of a model export, this should denote each individual part
-            # Not physically connected
+    def save_as_scad(self) :
+        
+        pass
 
-            # grid_key is relatively useless
-            # grid_value is everything inside the CubeGrids
-            # I think this is at the wrong level, may be bug #TODO
+    # def export_bluprint(self) : 
+    #     for grid_key, grid_value in self.CubeGrids:
+    #         # This is the loop for each individual grid
+    #         # In terms of a model export, this should denote each individual part
+    #         # Not physically connected
 
-            model_out = None
-            blocklist = grid_value["CubeGrid"]["CubeBlocks"]["MyObjectBuilder_CubeBlock"]
+    #         # grid_key is relatively useless
+    #         # grid_value is everything inside the CubeGrids
+    #         # I think this is at the wrong level, may be bug #TODO
+
+    #         model_out = None
+    #         blocklist = grid_value["CubeGrid"]["CubeBlocks"]["MyObjectBuilder_CubeBlock"]
             
-            print(blocklist)
-            print(str(type(blocklist)))
-            print("len(blocklist): " + str(len(blocklist)))
+    #         print(blocklist)
+    #         print(str(type(blocklist)))
+    #         print("len(blocklist): " + str(len(blocklist)))
 
-            for block in blocklist :
-                # This loops through each block on the grid
-                # Let's print its name
-                if debug: print("Found block of type: " + str(block["SubtypeName"]))
-                #if debug: print("block_info: " + str(block))
+    #         for block in blocklist :
+    #             # This loops through each block on the grid
+    #             # Let's print its name
+    #             if debug: print("Found block of type: " + str(block["SubtypeName"]))
+    #             #if debug: print("block_info: " + str(block))
 
 
     def print_all_values(self, nested_dict) : 
@@ -56,7 +60,7 @@ class SE_Blueprint() :
             else:
                 print(key, ":", value,"\n")
 
-
+    def calculate_block_counts(self) :
         blockcounts = {}
         for grid_key, grid_value in self.CubeGrids:
             # This is the loop for each individual grid
@@ -67,14 +71,14 @@ class SE_Blueprint() :
             for block in blocklist :
                 # This loops through each block on the grid
                 # Let's print its name
-                if debug: print("Found block of type: " + str(block["SubtypeName"]))
+                #if debug: print("Found block of type: " + str(block["SubtypeName"]))
                 #if debug: print("block_info: " + str(block))
                 currblockname = block["SubtypeName"]
-                print("currblockname:" + str(currblockname) + "," + str(type(currblockname)))
+                #print("currblockname:" + str(currblockname) + "," + str(type(currblockname)))
                 #print("Here's the blockcounts: ")
                 #print(blockcounts)
                 try :
-                    print(blockcounts[currblockname])
+                    #print(blockcounts[currblockname])
                     blockcounts[currblockname] += 1
                 except KeyError :
                     blockcounts[str(currblockname)] = 1
@@ -84,11 +88,9 @@ class SE_Blueprint() :
 
 if __name__ == "__main__" :
     print("If in debug, I'm going to count some blocks")
-    debug_blueprint = SE_Blueprint()
-    debug_blueprint.export_bluprint()
+    debug_blueprint = SE_Blueprint("test_SE_Export1.json") #TODO make this import sbc
     debug_blueprint.calculate_block_counts()
 
 #debug_blueprint = SE_Blueprint()
-#debug_blueprint.export_bluprint()
 #debug_blueprint.print_all_values(debug_blueprint)
 #debug_blueprint.calculate_block_counts()
